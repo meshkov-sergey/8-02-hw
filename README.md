@@ -7,7 +7,7 @@
 `Установите Zabbix Server с веб-интерфейсом.`
 
 Cкриншот авторизации в админке
-![скриншот авторизации в админке](https://img/zabbix-auth.png)
+![скриншот авторизации в админке](https://github.com/meshkov-sergey/8-02-hw/blob/main/img/zabbix-auth.png)
 
 ### Установка PostgreSQL
 sudo apt update
