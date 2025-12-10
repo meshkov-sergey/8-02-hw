@@ -69,6 +69,7 @@ sudo rm -f /etc/nginx/sites-enabled/default
 # Запуск сервисов
 sudo systemctl restart zabbix-server zabbix-agent nginx php8.3-fpm
 sudo systemctl enable zabbix-server zabbix-agent nginx php8.3-fpm
+```
 
 ### Скриншот авторизации в админке:
 ![скриншот авторизации в админке](https://github.com/meshkov-sergey/8-02-hw/blob/main/img/zabbix-auth.png)
