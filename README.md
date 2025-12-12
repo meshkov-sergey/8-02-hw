@@ -72,7 +72,7 @@ sudo systemctl enable zabbix-server zabbix-agent nginx php8.3-fpm
 ```
 
 ### Скриншот авторизации в админке:
-![скриншот авторизации в админке](https://github.com/meshkov-sergey/8-02-hw/main/img/zabbix-auth.png)
+![скриншот авторизации в админке](https://github.com/meshkov-sergey/8-02-hw/img/zabbix-auth.png)
 
 
 ## Задание 2
@@ -125,10 +125,10 @@ docker run -d \
 
 ### Скриншоты:
 
-![Configuration Hosts](https://github.com/meshkov-sergey/8-02-hw/main/img/zabbix-configuration-hosts.png) - Раздел Hosts с подключенными агентами
+![Configuration Hosts](https://github.com/meshkov-sergey/8-02-hw/img/zabbix-configuration-hosts.png) - Раздел Hosts с подключенными агентами
 
-![Local Agent Logs](https://github.com/meshkov-sergey/8-02-hw/main/img/zabbix-agent-logs-local.png) - Логи локального агента (подключение к серверу)
+![Local Agent Logs](https://github.com/meshkov-sergey/8-02-hw/img/zabbix-agent-logs-local.png) - Логи локального агента (подключение к серверу)
 
-![Docker Agent Logs](https://github.com/meshkov-sergey/8-02-hw/main/img/zabbix-agent-logs-docker.png) - Логи Docker агента (подключение к серверу)
+![Docker Agent Logs](https://github.com/meshkov-sergey/8-02-hw/img/zabbix-agent-logs-docker.png) - Логи Docker агента (подключение к серверу)
 
-![Latest Data](https://github.com/meshkov-sergey/8-02-hw/main/img/zabbix-monitoring-latest-data.png) - Latest data с данными от обоих агентов
+![Latest Data](https://github.com/meshkov-sergey/8-02-hw/img/zabbix-monitoring-latest-data.png) - Latest data с данными от обоих агентов
